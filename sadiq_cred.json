@@ -1,0 +1,16 @@
+{
+    "creds": {
+      "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCvKfbUuQqBBlvW\ncGwWSb8QMxU/tMJVXdPjkf3xfYGVQnC6d9HVqKqiBLv1pdagNKpCe6LcxNdpAiT6\nCW3XAb32LGshnI8COwthQ9oLbSPfGTWEexnWFESVEjV6j6gjqSScXh1jCvCGPdQ2\njtbGARL/o6mj8j1lTxoHEgmZjZVmRE6ppWL+XmFL1P+EdFRhltGiO5zQdYZrTniE\nat3hQXJjZaC7jRVzxaFJAXdFI49CZI3NTqsdhgMghAg14QTI3HLQci7Sv3G5qvf4\n7YDHXwfJjndhvzc/m6/+dvMjAD4Ccw60aQfxOGvbJG8sc2xaFeMXUAAx+5X3Nqf/\nEIrJkg1bAgMBAAECggEADZ52JgjzE6AScORRyxPVyqUmIEtmFqwSZu25cFbBRgEh\n8aWSR4nzJmC22n0X6GHf4QZq3b5iPzRe+p/UDfUBN4wxki3xgotjsZ7Ma7oDIXv8\nyL2nfxkZUfvV858KxCcJBS1eHI7Dr7RL9Sf68+8ucnjfnjMd6ewSCn2xCGLVPFuv\nUMC5sakkUwrFhhp9ii2nLZq5tLlA2v4MMSzRdyMk77hocplgtoUCtX7G0dy/rc4h\nMSRgxuBfQ0QsmYfnbXV013Ab/IkK1D/nkoDEvogJbDUzfxSuJeCMvnHSZlcSbZ0V\nQ2q4fljx/kaTY9bis7QlZj5OX7qLR5F0ztv0NBAbTQKBgQDXuaBKdy24r+9z+sK7\niOnN7hKqTI1dfxUdi/xit8aRAp++N5XibHQCwuZRHvqpvQcIfTe88F+LDlci4IEG\nb0cMpu083igdg8zDQRtqbgMJrUECYC2tx72oE+S00Dv4xrrfpGOsvfDc/XqfoSLM\nBfHL61OoNEc0fx0+uS9XWLiKFwKBgQDP3cFmR+U5MQ48ioWhJxdn3sTHCOUxExCT\ndF/HWpWhM+QYkuVSvEYG/5z6wm3ZdeaggR7lxf/NUm+fMAVjFr6bMj0ODsPS2hEo\nnWCIFAnggbTkTLG0WHUFuyqHqonAg5AMRWbz5xFhvSeA/2GuSoCgz5vAKatJbGgR\nnNuYkuwVXQKBgD0APJdSBBfJiEifjBlDqfmVbKnDY+YgXXQxdXjkxr2SpGFBjpys\nVlHBkyc1P2RoE2kPH4fJ4PqNX455NYMATHMDcOpZV7ag4nIEIyCBY1KFL3DgiYou\nhS7WEUIf8BV0/Lro3Vanj0iuVNJ22kQfGjSzosBZqBjsKPTnoL9uUyCZAoGAZBcu\nmhaCbMCPT12QLOIK5iwhaomA+tloQOhnejHHHQFEkwSgwe8AdTw+FYzroiugaqbh\n/tgRbYeFUgyoe2cnTsmpFozLhEsWugzVv5COlPk/5jJ72xBBAQp31y2p+PYgtZfx\nk/4uo3aWgAn4uhkLyONO5v/ph4hYsCpsnxIX9c0CgYAK7+Izlj8mYA5k5OOYDdYO\n88P7mQNk21woPzajl7+MYkUmSihRG051VJt+po+9CoRqjyh7MUgNYQ2fxMzxvVZy\nEat+M7RuyLd30gX+GbfeDUEYw4xtRAOgRAJi5Dpmj5Y0+W00Svuij7rYHaAm/vNq\nUDK5UhTbqtILb+bXCM5pYA==\n-----END PRIVATE KEY-----\n",
+      "client_email": "aws-to-google-serviceaccount@masjidbuddy-1570820156555.iam.gserviceaccount.com",
+      "token_uri": "https://oauth2.googleapis.com/token",
+      "scopes": [
+        "https://www.googleapis.com/auth/drive"
+      ],
+      "subject": "dearjafer@gmail.com"
+    },
+    "main_folder_id": {
+      "aws": "12rbBMyeMXmbwndU5raLOZrZJsuYVJ2Ay",
+      "local": "1tZSHrC8PIkxlAHGqoB-8gDnSmFzxhmdl",
+      "is_running_on_aws": true
+    } 
+  }
